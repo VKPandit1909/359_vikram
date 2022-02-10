@@ -2,7 +2,7 @@
   "name": "full-stack-devops",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://vkpandit1909.github.io/dev",
+  "homepage": "https://vkpandit.herokuapp.com/",
   "dependencies": {
     "@ant-design/icons": "^4.6.2",
     "@testing-library/jest-dom": "^5.11.9",
