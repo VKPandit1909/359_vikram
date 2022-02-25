@@ -290,4 +290,13 @@ input:-internal-autofill-selected {
   #contact_form {
     padding-left: 0px;
   }
+  .hire-me {
+    padding: 10px;
+  }
+  .root, .App.dark.container, .ant-layout {
+    height: 100vh;
+  }
+  .ant-layout-content {
+    overflow: auto;
+  }
 }
